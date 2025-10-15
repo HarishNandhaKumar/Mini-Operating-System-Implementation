@@ -1,4 +1,6 @@
+<div align="center">
 # Mini Operating System Implementation
+</div>
 
 <div align="center">
 
@@ -308,8 +310,6 @@ Educational project for portfolio demonstration.
 ---
 
 <div align="center">
-
-**Built with 💻 and ☕**
 
 [⬆ Back to Top](#mini-operating-system-implementation)
 
