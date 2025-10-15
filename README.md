@@ -1,6 +1,4 @@
-<div align="center">
 # Mini Operating System Implementation
-</div>
 
 <div align="center">
 
