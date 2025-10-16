@@ -94,7 +94,7 @@ valgrind --version # (Optional) for memory testing
 ```bash
 # Clone the repository
 git clone https://github.com/HarishNandhaKumar/Mini-Operating-System-Implementation.git
-cd mini-os
+cd Mini-Operating-System-Implementation
 
 # Build Part 1 - System Call Interface
 make part-1
